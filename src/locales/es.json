@@ -1,0 +1,22 @@
+{
+  "app": {
+    "title": "Midas International",
+    "serviceCenters": "Centros de Servicio"
+  },
+  "center": {
+    "state": "Estado",
+    "city": "Ciudad",
+    "latitude": "Latitud",
+    "longitude": "Longitud",
+    "carMakes": "Marcas de Autos",
+    "seeMap": "Ver Mapa del Centro"
+  },
+  "footer": {
+    "copyright": "Copyright © 2025 Midas International, LLC. Todos los derechos reservados.",
+    "developedBy": "Desarrollado por U202218181"
+  },
+  "language": {
+    "english": "EN",
+    "spanish": "ES"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "app": {
+    "title": "Midas International",
+    "serviceCenters": "Service Centers"
+  },
+  "center": {
+    "state": "State",
+    "city": "City",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "carMakes": "Car Makes", 
+    "seeMap": "See Center Map"
+  },
+  "footer": {
+    "copyright": "Copyright © 2025 Midas International, LLC. All rights reserved.",
+    "developedBy": "Developed by U202218181"
+  },
+  "language": {
+    "english": "EN",
+    "spanish": "ES"
+  }
+}
